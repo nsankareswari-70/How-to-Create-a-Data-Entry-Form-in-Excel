@@ -66,7 +66,8 @@ It will find the records which has the partial string 'progress' for the status 
 
 <img src="https://github.com/nsankareswari-70/How-to-Create-a-Data-Entry-Form-in-Excel/blob/1d42f539444af7ac12162234eb119cc119c7791f/fo9.png" height=300 width=500>
 
-It allows you to use the Find previous and Find Next options on the records which satisfies the condition - status = 'progress' and'Date > 1/7/2019'
+It allows you to use the Find previous and Find Next options on the records which satisfies the condition - status = 'progress' and 'Date > 1/7/2019'
+
 
 
 
