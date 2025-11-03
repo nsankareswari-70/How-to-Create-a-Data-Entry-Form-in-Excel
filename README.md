@@ -20,7 +20,7 @@ Here is a brief description of what each button is about:
 - Restore: If you’re editing an existing entry, you can restore the previous data in the form (if you haven’t clicked New or hit Enter).
 - Find Prev: This will find the previous entry.
 - Find Next: This will find the next entry.
-- Criteria: This allows you to find specific records. For example, if I am looking for all the records, where the candidate was Hired, I need to click the Criteria button, enter ‘Hired’ in the Status field and then use the find buttons. Example of this is covered later in this tutorial.
+- Criteria: This allows you to find specific records. For example, if I am looking for all the records, where the candidate was Hired, I need to click the Criteria button, enter ‘Hired’ in the Status field and then use the find buttons. 
 - Close: This will close the form.
 - Scroll Bar: You can use the scroll bar to go through the records.
 
