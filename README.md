@@ -50,7 +50,11 @@ To go to the next entry, click on the ‘Find Next’ button and to go to the pr
 
 To edit an entry, simply make the change and hit enter. In case you want to revert to the original entry (if you haven’t hit the enter key), click the ‘Restore’ button.
 
-## quickly navigate through all the records based on criteria.
+## quickly navigate through all the records based on criteria
+<img src="https://github.com/nsankareswari-70/How-to-Create-a-Data-Entry-Form-in-Excel/blob/1d42f539444af7ac12162234eb119cc119c7791f/fo5.png" height=300 width=500>
+<img src="https://github.com/nsankareswari-70/How-to-Create-a-Data-Entry-Form-in-Excel/blob/1d42f539444af7ac12162234eb119cc119c7791f/fo6.png" height=300 width=500>
+
+
 
 
 
