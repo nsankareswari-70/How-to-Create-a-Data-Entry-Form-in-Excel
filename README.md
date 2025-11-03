@@ -27,6 +27,13 @@ Here is a brief description of what each button is about:
 ## Creating a New Entry
 <img src="https://github.com/nsankareswari-70/How-to-Create-a-Data-Entry-Form-in-Excel/blob/1d42f539444af7ac12162234eb119cc119c7791f/fo2.png" height=300 width=500>
 <img src="https://github.com/nsankareswari-70/How-to-Create-a-Data-Entry-Form-in-Excel/blob/1d42f539444af7ac12162234eb119cc119c7791f/fo3.png" height=300 width=500>
+Below are the steps to create a new entry using the Data Entry Form in Excel:
+
+Select any cell in the Excel Table.
+Click on the Form icon in the Quick Access Toolbar.Excel Data Entry Form icon in Quick Access Tool
+Enter the data in the form fields.
+Hit the Enter key (or click the New button) to enter the record in the table and get a blank form for next record.
+
 
 
 
