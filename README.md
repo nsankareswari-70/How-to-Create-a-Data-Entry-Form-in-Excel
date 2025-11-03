@@ -71,6 +71,7 @@ It allows you to use the Find previous and Find Next options on the records whic
 ## Restricting Data Entry Based on Rules - Data Validation
 
 <img src="https://github.com/nsankareswari-70/How-to-Create-a-Data-Entry-Form-in-Excel/blob/1d42f539444af7ac12162234eb119cc119c7791f/fo10.png" height=300 width=500>
+After setting this condition for the Date field, Excel only allows you enter the values between 1/1/2018 - 12/31/2026 for the dates.
 
 
 
