@@ -59,7 +59,7 @@ It only shows the records Area="Php" - we can use the Find previous and Find nex
 ### You can also use wildcard characters in criteria
 <img src="https://github.com/nsankareswari-70/How-to-Create-a-Data-Entry-Form-in-Excel/blob/1d42f539444af7ac12162234eb119cc119c7791f/fo7.png" height=300 width=500>
 
-It will find the records which has the partial string 'Progress' for the status column
+It will find the records which has the partial string 'progress' for the status column
 
 
 
