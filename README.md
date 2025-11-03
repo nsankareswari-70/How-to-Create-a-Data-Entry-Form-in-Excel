@@ -35,6 +35,17 @@ Select any cell in the Excel Table.
 - Enter the data in the form fields.
 - Hit the Enter key (or click the New button) to enter the record in the table and get a blank form for next record.
   
+## Navigating Through Existing Records
+One of the benefits of using Data Entry Form is that you can easily navigate and edit the records without ever leaving the dialog box.
+
+This can be especially useful if you have a dataset with many columns. This can save you a lot of scrolling and the process of going back and forth.
+
+Below are the steps to navigate and edit the records using a   data entry form:
+
+Select any cell in the Excel Table.
+Click on the Form icon in the Quick Access Toolbar.
+To go to the next entry, click on the ‘Find Next’ button and to go to the previous entry, click the ‘Find Prev’ button
+<img src="https://github.com/nsankareswari-70/How-to-Create-a-Data-Entry-Form-in-Excel/blob/1d42f539444af7ac12162234eb119cc119c7791f/fo4.png" height=300 width=500>
 
 
 
