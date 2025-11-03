@@ -73,6 +73,7 @@ It allows you to use the Find previous and Find Next options on the records whic
 <img src="https://github.com/nsankareswari-70/How-to-Create-a-Data-Entry-Form-in-Excel/blob/1d42f539444af7ac12162234eb119cc119c7791f/fo10.png" height=300 width=500>
 After setting this condition for the Date field, Excel only allows you enter the values between 1/1/2018 - 12/31/2026 for the dates.
 <img src="https://github.com/nsankareswari-70/How-to-Create-a-Data-Entry-Form-in-Excel/blob/1d42f539444af7ac12162234eb119cc119c7791f/fo11.png" height=300 width=500>
+For the invalid entries error message will be displayed. For the valid entries it allows you to continue and lets you add new records.
 <img src="https://github.com/nsankareswari-70/How-to-Create-a-Data-Entry-Form-in-Excel/blob/1d42f539444af7ac12162234eb119cc119c7791f/fo12.png" height=300 width=500>
 
 
