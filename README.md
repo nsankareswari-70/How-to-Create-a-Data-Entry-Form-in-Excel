@@ -54,6 +54,9 @@ To edit an entry, simply make the change and hit enter. In case you want to reve
 <img src="https://github.com/nsankareswari-70/How-to-Create-a-Data-Entry-Form-in-Excel/blob/1d42f539444af7ac12162234eb119cc119c7791f/fo5.png" height=300 width=500>
 <img src="https://github.com/nsankareswari-70/How-to-Create-a-Data-Entry-Form-in-Excel/blob/1d42f539444af7ac12162234eb119cc119c7791f/fo6.png" height=300 width=500>
 
+It only shows the records Area="Php" - we can use the Find previous and Find next for the records that matches the criteria
+
+
 
 
 
