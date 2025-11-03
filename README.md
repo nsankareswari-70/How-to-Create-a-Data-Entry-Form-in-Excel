@@ -45,7 +45,12 @@ Below are the steps to navigate and edit the records using a   data entry form:
 Select any cell in the Excel Table.
 Click on the Form icon in the Quick Access Toolbar.
 To go to the next entry, click on the ‘Find Next’ button and to go to the previous entry, click the ‘Find Prev’ button
+
 <img src="https://github.com/nsankareswari-70/How-to-Create-a-Data-Entry-Form-in-Excel/blob/1d42f539444af7ac12162234eb119cc119c7791f/fo4.png" height=300 width=500>
+
+To edit an entry, simply make the change and hit enter. In case you want to revert to the original entry (if you haven’t hit the enter key), click the ‘Restore’ button.
+
+## quickly navigate through all the records based on criteria.
 
 
 
