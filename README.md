@@ -1,6 +1,18 @@
 ## How-to-Create-a-Data-Entry-Form-in-Excel
 
 A data entry form can help by making the process faster and less error-prone.
+Key Features:
+
+- Simple and interactive data entry form linked to worksheet columns.
+
+- Automatic record addition to the next empty row.
+
+- Validation rules to prevent incorrect or incomplete entries.
+
+- Options to search, edit, or delete existing records.
+
+- Customizable fields to suit various data management needs.
+
 Below is a data set that is typically maintained by the hiring team in an organization
 
 <img src="https://github.com/nsankareswari-70/How-to-Create-a-Data-Entry-Form-in-Excel/blob/1d42f539444af7ac12162234eb119cc119c7791f/fo13.png" height=300 width=300>
