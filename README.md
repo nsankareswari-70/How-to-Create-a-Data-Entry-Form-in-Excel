@@ -1,6 +1,7 @@
 ## How-to-Create-a-Data-Entry-Form-in-Excel
 
 A data entry form can help by making the process faster and less error-prone.
+   
 Key Features:
 
 - Simple and interactive data entry form linked to worksheet columns.
